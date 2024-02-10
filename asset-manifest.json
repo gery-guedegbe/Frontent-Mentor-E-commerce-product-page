@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Frontent-Mentor-E-commerce-product-page.git/static/css/main.fc9acf1b.css",
-    "main.js": "/Frontent-Mentor-E-commerce-product-page.git/static/js/main.75bdb078.js",
-    "static/js/592.5896bce0.chunk.js": "/Frontent-Mentor-E-commerce-product-page.git/static/js/592.5896bce0.chunk.js",
-    "static/media/logo.svg": "/Frontent-Mentor-E-commerce-product-page.git/static/media/logo.4fe9c1e86cf9bf600f0c239f6a6e5317.svg",
-    "static/media/icon-delete.svg": "/Frontent-Mentor-E-commerce-product-page.git/static/media/icon-delete.1fd1f1f7d9f8ce5557b44ca3470a18b8.svg",
-    "index.html": "/Frontent-Mentor-E-commerce-product-page.git/index.html",
-    "static/media/icon-plus.svg": "/Frontent-Mentor-E-commerce-product-page.git/static/media/icon-plus.b297868c5f938612f4f099f9f9d73aea.svg",
-    "static/media/icon-minus.svg": "/Frontent-Mentor-E-commerce-product-page.git/static/media/icon-minus.f5073aa8273785ecf6b7811630782736.svg",
-    "static/media/icon-close.svg": "/Frontent-Mentor-E-commerce-product-page.git/static/media/icon-close.c390448669f3a8a4c4b2ada2f9938959.svg",
-    "static/media/icon-menu.svg": "/Frontent-Mentor-E-commerce-product-page.git/static/media/icon-menu.c6107d03f1edcf73523ebd8cbc50a443.svg",
-    "main.fc9acf1b.css.map": "/Frontent-Mentor-E-commerce-product-page.git/static/css/main.fc9acf1b.css.map",
-    "main.75bdb078.js.map": "/Frontent-Mentor-E-commerce-product-page.git/static/js/main.75bdb078.js.map",
-    "592.5896bce0.chunk.js.map": "/Frontent-Mentor-E-commerce-product-page.git/static/js/592.5896bce0.chunk.js.map"
+    "main.css": "/Frontent-Mentor-E-commerce-product-page/static/css/main.fc9acf1b.css",
+    "main.js": "/Frontent-Mentor-E-commerce-product-page/static/js/main.fb368736.js",
+    "static/js/592.5896bce0.chunk.js": "/Frontent-Mentor-E-commerce-product-page/static/js/592.5896bce0.chunk.js",
+    "static/media/logo.svg": "/Frontent-Mentor-E-commerce-product-page/static/media/logo.4fe9c1e86cf9bf600f0c239f6a6e5317.svg",
+    "static/media/icon-delete.svg": "/Frontent-Mentor-E-commerce-product-page/static/media/icon-delete.1fd1f1f7d9f8ce5557b44ca3470a18b8.svg",
+    "index.html": "/Frontent-Mentor-E-commerce-product-page/index.html",
+    "static/media/icon-plus.svg": "/Frontent-Mentor-E-commerce-product-page/static/media/icon-plus.b297868c5f938612f4f099f9f9d73aea.svg",
+    "static/media/icon-minus.svg": "/Frontent-Mentor-E-commerce-product-page/static/media/icon-minus.f5073aa8273785ecf6b7811630782736.svg",
+    "static/media/icon-close.svg": "/Frontent-Mentor-E-commerce-product-page/static/media/icon-close.c390448669f3a8a4c4b2ada2f9938959.svg",
+    "static/media/icon-menu.svg": "/Frontent-Mentor-E-commerce-product-page/static/media/icon-menu.c6107d03f1edcf73523ebd8cbc50a443.svg",
+    "main.fc9acf1b.css.map": "/Frontent-Mentor-E-commerce-product-page/static/css/main.fc9acf1b.css.map",
+    "main.fb368736.js.map": "/Frontent-Mentor-E-commerce-product-page/static/js/main.fb368736.js.map",
+    "592.5896bce0.chunk.js.map": "/Frontent-Mentor-E-commerce-product-page/static/js/592.5896bce0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc9acf1b.css",
-    "static/js/main.75bdb078.js"
+    "static/js/main.fb368736.js"
   ]
 }
